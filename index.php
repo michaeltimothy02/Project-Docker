@@ -182,7 +182,7 @@ $result = mysqli_query($conn, $query);
                     <form id="paymentForm">
                         <!-- Order Summary -->
                         <div class="order-summary mb-4 p-3 border rounded">
-                            <h6 class="fw-bold mb-3">ORDER SUMMARY</h6>
+                            <h6 class="fw-bold mb-3">ORDERS SUMMARY</h6>
                             <div id="orderSummary">
                                 <!-- Order items will be loaded here -->
                             </div>
